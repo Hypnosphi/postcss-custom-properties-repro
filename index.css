@@ -1,0 +1,6 @@
+.grid {
+    --column-width: auto;
+    --first-column: [start] var(--column-width);
+
+    grid-template-columns: var(--first-column) auto;
+}

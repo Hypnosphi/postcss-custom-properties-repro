@@ -1,0 +1,16 @@
+{
+  "name": "postcss-custom-properties-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss index.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postcss": "^8.4.21",
+    "postcss-cli": "^10.1.0",
+    "postcss-custom-properties": "^13.1.3"
+  }
+}
